@@ -1,0 +1,6 @@
+{
+  "name": "AI Shopping Assistant",
+  "description": "An advanced, conversational AI-powered shopping assistant similar to Amazon and Flipkart with interactive product comparisons, reviews, and a personalized e-commerce experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
